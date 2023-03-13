@@ -1,4 +1,4 @@
-# CSharp-Programming
+# CSharp-Programming Projects
 
 In this Repo i upload source code written in C#.  
 This is mostly stuff i learned in school so don't expect it to be advanced.  
